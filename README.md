@@ -1,2 +1,2 @@
-# mooc-ohjelmointi-2022 kurssin
+# mooc-ohjelmointi-2022 kurssi
 # osa 13 tehtävät
